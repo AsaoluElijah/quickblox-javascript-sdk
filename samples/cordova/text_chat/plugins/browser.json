@@ -1,24 +1,27 @@
 {
-    "prepare_queue": {
-        "installed": [],
-        "uninstalled": []
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
     },
-    "config_munge": {
-        "files": {}
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
     },
-    "installed_plugins": {
-        "cordova-plugin-websocket": {
-            "PACKAGE_NAME": "com.quickblox.cordova.chat"
-        },
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.quickblox.cordova.chat"
-        },
-        "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
-        },
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
-        }
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
     },
-    "dependent_plugins": {}
+    "cordova-plugin-websocket": {
+      "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.quickblox.cordova.text_chat"
+    }
+  },
+  "dependent_plugins": {}
 }

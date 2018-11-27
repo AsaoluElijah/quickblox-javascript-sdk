@@ -37,6 +37,7 @@
     "email": "web@quickblox.com"
   },
   "dependencies": {
+    "cordova-custom-config": "^5.0.2",
     "crypto-js": "3.1.2-2",
     "form-data": "^2.3.1",
     "nativescript-xmpp-client": "^1.2.0",

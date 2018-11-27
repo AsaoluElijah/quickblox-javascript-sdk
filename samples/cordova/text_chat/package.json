@@ -1,0 +1,28 @@
+{
+  "name": "com.quickblox.cordova.text_chat",
+  "version": "0.0.1",
+  "displayName": "QB Text Chat",
+  "cordova": {
+    "platforms": [
+      "android",
+      "browser",
+      "ios"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-websocket": {},
+      "cordova-plugin-console": {},
+      "cordova-custom-config": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^6.0.0",
+    "cordova-browser": "5.0.4",
+    "cordova-custom-config": "^3.0.14",
+    "cordova-ios": "^4.4.0",
+    "cordova-plugin-console": "~1.0.4",
+    "cordova-plugin-device": "^2.0.2",
+    "cordova-plugin-websocket": "~0.12.0",
+    "cordova-plugin-whitelist": "1"
+  }
+}

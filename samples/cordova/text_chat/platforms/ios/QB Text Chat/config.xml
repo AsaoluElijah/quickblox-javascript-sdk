@@ -18,6 +18,9 @@
     <feature name="Console">
         <param name="ios-package" value="CDVLogger" />
     </feature>
+    <feature name="Device">
+        <param name="ios-package" value="CDVDevice" />
+    </feature>
     <name>QB Text Chat</name>
     <description>
         Apache Cordova simple code sample for Web XMPP Chat (via QuickBlox SDK + API)

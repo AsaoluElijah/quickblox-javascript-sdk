@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "QB Text Chat",
+  "short_name": "QB Text Chat",
+  "version": "com.quickblox.cordova.text_chat",
+  "description": "Apache Cordova simple code sample for Web XMPP Chat (via QuickBlox SDK + API)",
+  "author": "QuickBlox Team",
+  "icons": [],
+  "start_url": "index.html"
+}
