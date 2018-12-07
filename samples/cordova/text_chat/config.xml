@@ -33,7 +33,7 @@
     <plugin name="cordova-plugin-websocket" spec="~0.12.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.4" />
     <plugin name="cordova-custom-config" spec="~3.0.14" />
-    <engine name="android" spec="^6.0.0" />
-    <engine name="browser" spec="5.0.4" />
     <engine name="ios" spec="^4.4.0" />
+    <engine name="android" spec="^7.1.4" />
+    <engine name="browser" spec="^5.0.4" />
 </widget>

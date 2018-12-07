@@ -4,9 +4,9 @@
   "displayName": "QB Text Chat",
   "cordova": {
     "platforms": [
+      "ios",
       "android",
-      "browser",
-      "ios"
+      "browser"
     ],
     "plugins": {
       "cordova-plugin-whitelist": {},
@@ -16,8 +16,8 @@
     }
   },
   "dependencies": {
-    "cordova-android": "^6.0.0",
-    "cordova-browser": "5.0.4",
+    "cordova-android": "^7.1.4",
+    "cordova-browser": "^5.0.4",
     "cordova-custom-config": "^3.0.14",
     "cordova-ios": "^4.4.0",
     "cordova-plugin-console": "~1.0.4",
